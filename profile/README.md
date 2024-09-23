@@ -16,5 +16,22 @@ CCV Online Payments is a secure and reliable payment solution that allows busine
 
 If you want to get to know CCV better, please have a look at https://www.ccv.eu/en/solutions/payment-services/ccv-online-payments/. 
 
+## Build your Seamless Payment Integration
+CCV’s Online Payments solution serves as a powerful tool for innovation and integration. Our developer-friendly integration options, such as APIs and Plugins, enable easy integration of payment functionalities into various applications and platforms. Developers can create customized payment solutions that cater to specific business needs, enhancing the user experience and driving business growth. With CCV’s solution, developers can unleach their creativity and transform payment processes. 
+
+Ready to integrate payments? Explore our developer-friendly APIs at https://www.ccv.eu/en/solutions/payment-services/ccv-online-payments/developers/.  
+
+If you want to use a ready-made e-commerce plugin instead, continue reading. 
+
+## e-commerce Plugins
+There are many e-commerce platforms to choose from when building your all-in-one webshop. CCV offers plugins for a number of these platforms, enabling you to couple them seamlessly with CCV's online payments solution. Below is an overview of the currently supported plugins. If your platform isn't listed, feel free to contact us to find out if support will be available soon.
+
+|   [Magento 2](https://github.com/CCV/ccvonlinepayments-magento2)   |  [WooCommerce](https://github.com/CCV/ccvonlinepayments-woocommerce)  |   [PrestaShop](https://github.com/CCV/ccvonlinepayments-prestashop)  |
+| ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  |
+
+|    [CCV Shop](https://www.ccvshop.be/?gad_source=1&gclid=Cj0KCQjwo8S3BhDeARIsAFRmkOPe4qOP7zBSQCFCpMQ3nYAZ8wRP-HlgKwUv1NwoDJxwj0EX6QwFs1QaAuY9EALw_wcB)   |   [SalesForce](https://appexchange.salesforce.com/appxListingDetail?listingId=393edd1a-7b2c-416c-a177-8a3a13ae7dd4)  |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
 
 

@@ -27,11 +27,16 @@ If you want to use a ready-made e-commerce plugin instead, continue reading.
 There are many e-commerce platforms to choose from when building your all-in-one webshop. CCV offers plugins for a number of these platforms, enabling you to couple them seamlessly with CCV's online payments solution. Below is an overview of the currently supported plugins. If your platform isn't listed, feel free to contact us to find out if support will be available soon.
 
 |   [Magento 2](https://github.com/CCV/ccvonlinepayments-magento2)   |  [WooCommerce](https://github.com/CCV/ccvonlinepayments-woocommerce)  |   [PrestaShop](https://github.com/CCV/ccvonlinepayments-prestashop)  |
-| ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  |
+| :---: | :---: | :---: |
+|  [<img src="https://github.com/user-attachments/assets/060de999-2f1f-491f-94d8-dd22121526d8" alt="Magento" width="200"/>](https://github.com/CCV/ccvonlinepayments-magento2) | [<img src="https://github.com/user-attachments/assets/b1575453-415d-4e8b-92a8-48ff8ab5f53a" alt="WooCommerce" width="200"/>](https://github.com/CCV/ccvonlinepayments-woocommerce) | [<img src="https://github.com/user-attachments/assets/5d009aa7-b0d7-4fda-a158-64078c1fb355" alt="PrestaShop" width="200"/>](https://github.com/CCV/ccvonlinepayments-prestashop) |
 
-|    [CCV Shop](https://www.ccvshop.be/?gad_source=1&gclid=Cj0KCQjwo8S3BhDeARIsAFRmkOPe4qOP7zBSQCFCpMQ3nYAZ8wRP-HlgKwUv1NwoDJxwj0EX6QwFs1QaAuY9EALw_wcB)   |   [SalesForce](https://appexchange.salesforce.com/appxListingDetail?listingId=393edd1a-7b2c-416c-a177-8a3a13ae7dd4)  |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
+
+|    [CCV Shop](https://www.ccvshop.be/)   |   [SalesForce](https://appexchange.salesforce.com/appxListingDetail?listingId=393edd1a-7b2c-416c-a177-8a3a13ae7dd4)  |
+| :---: | :---: |
+|  [<img src="https://github.com/user-attachments/assets/79dd7cc2-849e-4235-b193-5b2a0cd22893" alt="CCV Shop" width="200"/>](https://www.ccvshop.be/) | [<img src="https://github.com/user-attachments/assets/40a8e5f4-1fb7-4287-b686-2f780a4c3223" alt="SalesForce" width="200"/>](https://appexchange.salesforce.com/appxListingDetail?listingId=393edd1a-7b2c-416c-a177-8a3a13ae7dd4) |
+
+## Contact us
+
+Please create a GitHub issue for feature requests or bug reports. If you have a general question or installation difficulties, you can contact us directly ecommerce@ccv.eu.
 
 

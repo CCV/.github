@@ -35,8 +35,9 @@ There are many e-commerce platforms to choose from when building your all-in-one
 | :---: | :---: |
 |  [<img src="https://github.com/user-attachments/assets/79dd7cc2-849e-4235-b193-5b2a0cd22893" alt="CCV Shop" width="200"/>](https://www.ccvshop.be/) | [<img src="https://github.com/user-attachments/assets/40a8e5f4-1fb7-4287-b686-2f780a4c3223" alt="SalesForce" width="200"/>](https://appexchange.salesforce.com/appxListingDetail?listingId=393edd1a-7b2c-416c-a177-8a3a13ae7dd4) |
 
-## Contact us
+# Contact Us
+Please create a GitHub issue for feature requests or bug reports.
 
-Please create a GitHub issue for feature requests or bug reports. If you have a general question or installation difficulties, you can contact us directly ecommerce@ccv.eu.
+If you have a general question or installation difficulties, you can contact us directly ecommerce@ccv.eu, or call us at +882289999.
 
 
